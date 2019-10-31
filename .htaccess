@@ -1,0 +1,5 @@
+# Для некоторых хостингов на UTF-8
+AddDefaultCharset windows-1251
+
+# Для работы инклюда
+AddHandler application/x-httpd-php .php .html .htm
